@@ -1,0 +1,16 @@
+img {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.footer {
+    background-color: white;
+}
+
+a, a:visited, a:active, a:hover {
+    color: black;
+}
+
+h1 {
+    padding-top: 10px;
+}
